@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/food">
+        <file>snake_resource/food/AC.png</file>
+        <file>snake_resource/food/RE.png</file>
+        <file>snake_resource/food/TLE.png</file>
+        <file>snake_resource/food/WA.png</file>
+        <file>snake_resource/shop.png</file>
+        <file>snake_resource/shopbackground.png</file>
+        <file>snake_resource/snake.png</file>
+    </qresource>
+</RCC>

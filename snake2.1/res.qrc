@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>太阳.png</file>
+        <file>月亮.png</file>
+        <file>food_star.png</file>
+        <file>icon.png</file>
+        <file>shop.png</file>
+        <file>shopbackground.png</file>
+        <file>snake.png</file>
+        <file>AC.png</file>
+        <file>RE.png</file>
+        <file>TLE.png</file>
+        <file>WA.png</file>
+        <file>littlewhitecloud.png</file>
+    </qresource>
+</RCC>

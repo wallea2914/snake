@@ -1,0 +1,15 @@
+debug/choose_savefile.o
+debug/food.o
+debug/game.o
+debug/gameover.o
+debug/main.o
+debug/rank.o
+debug/shop.o
+debug/snake.o
+debug/widget.o
+debug/qrc_res.o
+debug/moc_choose_savefile.o
+debug/moc_gameover.o
+debug/moc_rank.o
+debug/moc_shop.o
+debug/moc_widget.o

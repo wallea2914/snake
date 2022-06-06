@@ -1,0 +1,15 @@
+release/choose_savefile.o
+release/food.o
+release/game.o
+release/gameover.o
+release/main.o
+release/rank.o
+release/shop.o
+release/snake.o
+release/widget.o
+release/qrc_res.o
+release/moc_choose_savefile.o
+release/moc_gameover.o
+release/moc_rank.o
+release/moc_shop.o
+release/moc_widget.o
