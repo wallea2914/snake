@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>snake.png</file>
+        <file>AC.png</file>
+        <file>WA.png</file>
+        <file>RE.png</file>
+        <file>TLE.png</file>
+        <file>champion.png</file>
+        <file>food_star.png</file>
+        <file>gameover.png</file>
+        <file>icon.png</file>
+        <file>littlewhitecloud.png</file>
+        <file>main.png</file>
+        <file>runnerup.png</file>
+        <file>second_runnerup.png</file>
+        <file>shop.png</file>
+        <file>shopbackground.png</file>
+        <file>太阳.png</file>
+        <file>月亮.png</file>
+        <file>hahaha.png</file>
+        <file>joke.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>buy.mp3</file>
+        <file>eat.mp3</file>
+        <file>over.mp3</file>
+        <file>bgm.mp3</file>
+        <file>pushbutton.mp3</file>
+    </qresource>
+</RCC>
